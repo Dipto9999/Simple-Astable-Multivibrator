@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SimpleAstableMultivibrator.PcbDoc   2025-01-27  11:57:18 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SimpleAstableMultivibrator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T2      0.8mm (31mil)                                             Round             6         PTH        20.58mm (0.81inch)
+T3      1.02mm (40mil)                                            Round             4         PTH        28.48mm (1.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              11
+
+Total Processing Time (hh:mm:ss) : 00:00:00

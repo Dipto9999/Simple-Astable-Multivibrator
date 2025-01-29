@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: SimpleAstableMultivibrator.GBR   2025-01-27  11:57:17 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GM5                Top Assembly                            
+.GM13               Top 3D Body                             
+.GM15               Top Courtyard                           
+.GM16               Top Component Center                    
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

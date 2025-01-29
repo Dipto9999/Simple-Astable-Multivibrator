@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\munta\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for SimpleAstableMultivibrator.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-01-25
+Time:       23:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                           Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                                   
+P2         TSW-102-07-G-S                    TopLayer FP-TSW-102-07-G-S-MFG 17.7700      16.7500      180      "Board Connector, 2 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator"   
+R4         "Resistor 1K +/-5% 0805 500 mW"   TopLayer RESC2013X70X40ML20T20 20.0000      10.0000      90       "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 1000ohm, 400V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805"     
+R3         "Resistor 1K +/-5% 0805 500 mW"   TopLayer RESC2013X70X40ML20T20 9.5000       10.0000      90       "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 1000ohm, 400V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805"     
+R2         "Resistor 100K +/-5% 0805 125 mW" TopLayer RESC2013X70X40ML20T20 25.0000      10.0250      90       "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 100000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805" 
+R1         "Resistor 100K +/-5% 0805 125 mW" TopLayer RESC2013X70X40ML20T20 13.7500      10.0000      90       "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 100000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805" 
+Q2         BC547CG                           TopLayer ONSC-TO-92-3-29-11    25.0000      20.0000      90       "Small Signal Bipolar Transistor, 0.1A I(C), 45V V(BR)CEO, 1-Element, NPN, Silicon, TO-92"                    
+Q1         BC547CG                           TopLayer ONSC-TO-92-3-29-11    9.5000       20.2700      90       "Small Signal Bipolar Transistor, 0.1A I(C), 45V V(BR)CEO, 1-Element, NPN, Silicon, TO-92"                    
+P1         TSW-102-07-G-S                    TopLayer FP-TSW-102-07-G-S-MFG 5.0000       15.0000      90       "Board Connector, 2 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator"   
+C2         "Capacitor 22nF +/-5% 16V 0603"   TopLayer FP-C0603C-CF-IPC_A    16.6741      20.0000      0        "Ceramic Capacitor, Multilayer, Ceramic, 16V, 5% +Tol, 5% -Tol, X7R, 15% TC, 0.022uF, Surface Mount, 0603"    
+C1         "Capacitor 22nF +/-5% 16V 0603"   TopLayer FP-C0603C-CF-IPC_A    16.7006      13.4331      0        "Ceramic Capacitor, Multilayer, Ceramic, 16V, 5% +Tol, 5% -Tol, X7R, 15% TC, 0.022uF, Surface Mount, 0603"    

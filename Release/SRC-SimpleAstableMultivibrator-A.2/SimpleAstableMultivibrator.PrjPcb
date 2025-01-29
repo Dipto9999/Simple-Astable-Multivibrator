@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -36,9 +36,6 @@ ConstraintManagerFlow=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=F3E264E5-680A-427F-B278-165C6D4336A3
-VaultGUID=1907DD21-EB8F-4C33-9D27-F63F978C1371
-ReleaseVaultName=Muntakim Rahman
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1

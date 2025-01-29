@@ -1,25 +1,25 @@
 ### Altium ###
 # Previews Folders
-**/__Previews/
+PCB/**/__Previews/
 
 # History Folders
-**/History/*
+PCB/**/History/*
 
 # Project Logs
-Project Logs*/
+PCB/Project Logs*/
 
 # Project Outputs
-Project Outputs*/
+PCB/Project Outputs*/
 
 # Auto-conversion notices
-*.PcbDoc.htm
+PCB/*.PcbDoc.htm
 
 # Access lock file for dbLib sources
-**/*.ldb
+PCB/**/*.ldb
 
 # Document Local Metadata
-*.metadata
+PCB/*.metadata
 
 # Project hierarchy auto-generated file
-*.PrjPcbStructure
-*.PrjMbdStructure
+PCB/*.PrjPcbStructure
+PCB/*.PrjMbdStructure
