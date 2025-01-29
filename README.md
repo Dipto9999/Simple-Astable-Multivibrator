@@ -2,14 +2,14 @@
 
 ## Contents
 
-* [Overview](#Overview)
+* [Description](#Description)
 * [Circuit Schematic](#Schematic)
 * [SPICE-Simulation](#SPICE-Simulation)
 * [PCB Layout](#PCB-Layout)
     * [Design Outputs](#Design-Outputs)
 * [Credit](#Credit)
 
-## Overview
+## Description
 
 <img
     align = "right"
@@ -47,7 +47,7 @@ From the schematic and desired component traces, the **PCB** layout and routing 
     <img src = "Figures/PCB_Layout.png" title="PCB Layout">
 </p>
 
-## Design Outputs
+### Design Outputs
 
 The **Gerber** files are located in the [`Release/FAB.../Gerber`](Release/FAB-SimpleAstableMultivibrator-A.2/Gerber) directory.
 
