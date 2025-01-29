@@ -31,7 +31,7 @@ The electrical connections were defined in the [`SimpleAstableMultivibrator.SchD
 
 ## SPICE Simulation
 
-To determine which capacitances and resistances would produce an output frequency in the audio range (i.e. \( f \in (20 \, \text{Hz}, 20 \, \text{kHz}) \)), a **Simulation Program with Integrated Circuit Emphasis (SPICE)** model was created.
+To determine which capacitances and resistances would produce an output frequency in the audio range (i.e. *20 Hz <= f <= 20 kHz*), a **Simulation Program with Integrated Circuit Emphasis (SPICE)** model was created.
 
 <p align="center">
     <img src = "Figures/DC_Simulation.png" title="SPICE Simulation">
